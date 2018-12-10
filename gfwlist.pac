@@ -11,6 +11,7 @@ var rules = [
     ],
     [
         [
+            "music.126.net",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
