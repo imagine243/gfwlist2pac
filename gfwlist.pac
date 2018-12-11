@@ -11,7 +11,6 @@ var rules = [
     ],
     [
         [
-            "music.126.net",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
@@ -92,6 +91,7 @@ var rules = [
             "zhongsou.com"
         ],
         [
+            "music.126.net",
             "030buy.com",
             "0rz.tw",
             "1-apple.com.tw",
